@@ -1,4 +1,7 @@
-/* Mohapatra 106117071*/
+
+/*Mohapatra 106117071*/
+/* Preetam 106117071 */
+
 #include <stdio.h>
  
 int main()
@@ -32,4 +35,4 @@ int main()
      printf("%d\n", array[c]);
  
   return 0;
-}
+}[M`F:
